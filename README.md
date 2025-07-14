@@ -24,17 +24,8 @@ Welcome to my cross-domain product portfolio — a curated set of real-world **u
 ## 📌 What's Inside?
 
 Each folder contains:
-- short strategic use case doc that frames the problem, solution, and business impact.
-- A full product requirements document with detailed user stories, feature scope, KPIs, and technical feasibility.
-
----
-
-## 💡 Why This Portfolio?
-
-As a product strategist with experience across consulting, sales leadership, and product development, this portfolio reflects my ability to:
-- Translate business problems into product solutions
-- Structure execution-ready PRDs with technical and business alignment
-- Think across verticals with domain-agnostic product sense
+- `Use_Case_<Name>.md`: A short strategic use case doc that frames the problem, solution, and business impact.
+- `PRD_<Feature>.md`: A full product requirements document with detailed user stories, feature scope, KPIs, and technical feasibility.
 
 ---
 
@@ -49,9 +40,7 @@ As a product strategist with experience across consulting, sales leadership, and
 ## 🤝 Let's Connect
 
 If you're hiring for Product, Strategy, or Digital roles or just want to collaborate on side-projects — let’s chat!  
-📧 mittalsaiprabha@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/saiprabhamittal/)
+📧 yourname@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
-
-⭐️ Star this repo if you found the content helpful or want to stay updated as I expand this into more domains.
