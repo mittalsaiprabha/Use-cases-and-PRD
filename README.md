@@ -40,7 +40,7 @@ Each folder contains:
 ## 🤝 Let's Connect
 
 If you're hiring for Product, Strategy, or Digital roles or just want to collaborate on side-projects — let’s chat!  
-📧 yourname@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 mittalsaiprabha@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/saiprabhamittal/)
 
 ---
